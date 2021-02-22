@@ -14,10 +14,10 @@ function send($phone){
 echo "
 ############################################################
     Spammer Call From TOKOPEDIA
-        Author By   : AyipBontos
-        Support     : Kunjungi Website Kami
-        Website     : https://termux.id
-        Youtube     : Omalip TV
+        Author By   : Dicky andre
+        Support     : subc cnl MR VIRUS SPM
+        TEAM        : DRAGON VIRUS CYBER
+        Youtube     : MR VIRUS SPM
      Penggunaannya  : Bisa Menggunakan [08/62]
 ###########################################################\n";
 echo "Nomor\nInput : ";
